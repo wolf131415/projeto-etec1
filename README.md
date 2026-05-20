@@ -1,8 +1,8 @@
 # projeto-etec1
-Contabilizador geral refeitorio: Terá uma contagem em cada sala, essa contagem será salva e ao final será somada a todas as salas, e lançada para o pessoal da cantina, será colocada no mesmo sistemo, o mesmo site ultilizado para anotações de irregularidade, para melhor acessibilidade.
+O Contabilizador Geral do Refeitório terá como finalidade realizar o controle da quantidade de alunos que utilizarão o refeitório escolar. Em cada sala será efetuada uma contagem individual, e os dados coletados serão registrados e armazenados no sistema. Posteriormente, todas as informações das turmas serão somadas automaticamente, gerando o total geral de refeições previstas para o dia.
 
- proxima ula molhorar o texto falando tambem como era antes 
-
+Após a consolidação dos dados, o resultado será disponibilizado para a equipe da cantina, facilitando a organização, o preparo adequado dos alimentos e evitando desperdícios. O sistema será integrado à mesma plataforma já utilizada para o registro de irregularidades escolares, proporcionando maior praticidade, acessibilidade e centralização das informações em um único ambiente digital.
+ 
 
 ```html
 <!DOCTYPE html>
