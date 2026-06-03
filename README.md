@@ -2,7 +2,8 @@
 O Contabilizador Geral do Refeitório terá como finalidade realizar o controle da quantidade de alunos que utilizarão o refeitório escolar. Em cada sala será efetuada uma contagem individual, e os dados coletados serão registrados e armazenados no sistema. Posteriormente, todas as informações das turmas serão somadas automaticamente, gerando o total geral de refeições previstas para o dia.
 
 Após a consolidação dos dados, o resultado será disponibilizado para a equipe da cantina, facilitando a organização, o preparo adequado dos alimentos e evitando desperdícios. O sistema será integrado à mesma plataforma já utilizada para o registro de irregularidades escolares, proporcionando maior praticidade, acessibilidade e centralização das informações em um único ambiente digital.
- 
+
+ https://gamma.app/docs/Untitled-fzwh20rwh4hgijo?mode=doc        -------apresentação.
 
 ```html
 <!DOCTYPE html>
